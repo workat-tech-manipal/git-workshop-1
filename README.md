@@ -20,6 +20,7 @@ Branching
 
 Secure
 
+
 **Workflow of GIT:-**
 
 1. Modify the file
@@ -55,7 +56,10 @@ Check if you have successfully installed git or not by using “git –version
 **FOR WINDOWS:-**
 
 
+
+
 **Commands** 
+
 
 - **git init** :- To initialize a repository.
 - **git add :**- to save the project to the staging area
@@ -71,9 +75,12 @@ Check if you have successfully installed git or not by using “git –version
 - **git log** :- lists all the commits which have been made
 
 
+
 **TO IGNORE A FILE**
 
 **.gitignore** file is use to add fine name which are supposed to be ignored 
+
+
 
 
 **GITHUB**
