@@ -55,7 +55,13 @@ Check if you have successfully installed git or not by using “git –version
 
 **FOR WINDOWS:-**
 
+Goto Link- https://git-scm.com/download/win
 
+When you've successfully started the installer, you should see the Git Setup wizard screen.
+
+Follow the Next and Finish prompts to complete the installation.The default options are pretty sensible for most users.
+
+Open Git Bash, and check if you have successfully installed git or not by using “git --version".
 
 
 **Commands** 
