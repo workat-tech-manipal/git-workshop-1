@@ -130,7 +130,7 @@ Open Git Bash, and check if you have successfully installed git or not by using 
 
 ### _TO IGNORE A FILE_
 
-    .gitignore file is use to add fine name which are supposed to be ignored
+    .gitignore file is use to add file name which are supposed to be ignored
 
 <div style="height:50px;"></div>
 
